@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "int3ract"]
+	path = int3ract
+	url = https://github.com/rwkrause/int3ract
